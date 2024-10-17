@@ -1,0 +1,11 @@
+h2{
+    color: aqua;
+}
+th,td{
+    border: 2px solid black;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Consolas', 'Menlo', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', monospace;
+}

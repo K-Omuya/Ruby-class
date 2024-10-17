@@ -1,0 +1,19 @@
+.cars{
+    background-color: aqua;
+    border: solid;
+    color: red;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.CARS{
+    background-color: red;
+    border: solid;
+    color: lime;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+#wanafunzi{
+    background-color: orange;
+}
